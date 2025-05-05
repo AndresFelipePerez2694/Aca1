@@ -40,3 +40,32 @@ footer {
     width: 100%;
     bottom: 0;
 }
+h1 {
+    color: #007bff;
+}
+.btn {
+    display: inline-block;
+    padding: 15px 25px;
+    background-color: #28a745;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.btn:hover {
+    background-color: #218838;
+}
+.video-container {
+    margin-top: 20px;
+}
+iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 350px;
+    border-radius: 10px;
+}
+.recommendations {
+    text-align: left;
+    padding: 20px;
+}
+
